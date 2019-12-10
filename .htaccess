@@ -1,0 +1,7 @@
+
+Options -Indexes 
+
+<FilesMatch "\.(jar|log|sh|md)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
