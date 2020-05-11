@@ -5,7 +5,7 @@ assets="$dir/assets"
 output="$dir/schema"
 
 schemaspy=schemaspy-6.1.0.jar
-jdbc=postgresql-jdbc42.2.9.jar
+jdbc=postgresql-jdbc42.2.12.jar
 
 host=localhost
 user=postgres
